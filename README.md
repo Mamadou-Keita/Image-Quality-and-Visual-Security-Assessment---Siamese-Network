@@ -1,5 +1,7 @@
 # Image Quality And Visual Security Assessment Siamese-Network
 
+In this work, we propose a full reference CNN-based image quality and visual security metric for perceptually encrypted images
+
 ![assets/Archi-Siamese.png](assets/Archi-Siamese.png)
 
 
