@@ -35,10 +35,13 @@ we design a labeling algorithm to automatically assign to each sampled patch the
 
 ### Environment
 
-### Library: 
-
-      
+We conduct all of our experiments using the open-source library Keras, Tensorflow as backend, and performed it on Google Colab. 
+ 
 ### Training
+
+Our model is trained, for each database, on the 80%. 
+During the model training phase, each mini-batch contained 64 patches derived from 16 images, and each image is represented by 4 patches. The MAE loss function and a learning rate η equal to 0.001 are used for the Adam optimizer. A dropout regularization is added to all FC layers with probability 0.2 to prevent overlearning. 
+The model is trained by backpropagation over several sets of epochs 500 with the EarlyStopping technique to address the overfitting problem.
 
 
 ### Testing: 
