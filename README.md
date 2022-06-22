@@ -16,7 +16,7 @@ The PEID database contains 20 reference gray-scale images of size 512 × 512, en
 
 ## Purpose: 
 
-Image Quality and Visual Security Assessment unsing Siamese Network 
+Image Quality and Visual Security Assessment ( using full reference mode ) 
 
 ## Preprocessing-data
 
