@@ -22,6 +22,10 @@ Image Quality and Visual Security Assessment ( using full reference mode )
 
 ## Preprocessing-data
 
+> Split into patches
+
+First, we divide all images into Np (4 in our case) small patches of size 256 × 256 without overlapping
+
 
 ## Model
 
