@@ -26,6 +26,10 @@ Image Quality and Visual Security Assessment ( using full reference mode )
 
 First, we divide all images into Np (4 in our case) small patches of size 256 × 256 without overlapping
 
+> Patch labelling
+
+we design a labeling algorithm to automatically assign to each sampled patch the score of the encrypted image
+
 
 ## Model
 
