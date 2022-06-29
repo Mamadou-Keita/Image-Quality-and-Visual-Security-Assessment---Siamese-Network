@@ -48,3 +48,4 @@ The model is trained by backpropagation over several sets of epochs 500 with the
 
 The model is tested on the remaining 20% of each database.
 
+![assets/result.png](assets/result.png)
