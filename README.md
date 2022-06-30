@@ -47,5 +47,10 @@ The model is trained by backpropagation over several sets of epochs 500 with the
 ### Testing: 
 
 The model is tested on the remaining 20% of each database.
+> Visual Quality Assessment Test Result on PEID Data Set
 
 ![assets/result.png](assets/result.png)
+
+> Visual Security Assessment Test Result on PEID Data Set
+
+![assets/VisualSecurity.png](assets/VisualSecurity.png)
